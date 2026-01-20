@@ -15,6 +15,7 @@ def solve(t):
     b1, b2 = map(int, input().strip().split())
     c1, c2 = map(int, input().strip().split())
 
+
     # aggiungi codice...
     estinto=min(a2,c2,b2)
     comparsi=max(a1,b1,c1)
