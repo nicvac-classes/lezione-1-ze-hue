@@ -25,6 +25,8 @@ def solve(t):
 
 
 
+
+
 T = int(input().strip())
 
 for t in range(1, T+1):
